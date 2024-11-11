@@ -346,7 +346,7 @@
     "typescript": "^5.4.4",
     "unist-util-remove": "^4.0.0",
     "unist-util-visit-parents": "6.0.1",
-    "vitest": "1.6.0",
+    "vitest": "2.1.0",
     "website-scraper": "^5.3.1"
   },
   "overrides": {},
